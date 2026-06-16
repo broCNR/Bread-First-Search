@@ -4,7 +4,7 @@
 
 # Undirected graph
 - Tree (using linkedlist) [Sophea]
-- An adjacency matrix graph (using 2D array) -> [Sophea]
+- An adjacency matrix graph (using 2D array) [Sophea]
 - An adjacency list graph (using linkedlist)
 - Edge list graph (triplet)
 
